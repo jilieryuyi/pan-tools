@@ -5,8 +5,7 @@
 
 ## 下载地址
 通过网盘分享的文件：pan-tools-win32-x64.rar
-链接: https://pan.baidu.com/s/1NMavrVst9x2D1P261mdiSw?pwd=4jm2 提取码: 4jm2
-
+链接: https://pan.baidu.com/s/1cIBmQ3V9BFg1nYTNpQMpqQ?pwd=qj9b 提取码: qj9b
 ## 联系作者
 ![加微信](images/w.png)
 
