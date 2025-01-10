@@ -1,11 +1,16 @@
-# 城通网盘工具辅助分享工具使用说明
+# 网盘辅助分享工具使用说明
 ````
 声明：网盘工具仅为操作提效而存在，不存在任何破解行为
+仅支持批量分享到贴吧
+1、支持城通网盘
+2、支持百度网盘
+3、支持迅雷网盘
 ````
 
 ## 下载地址
 通过网盘分享的文件：pan-tools-win32-x64.rar
-链接: https://pan.baidu.com/s/1cIBmQ3V9BFg1nYTNpQMpqQ?pwd=qj9b 提取码: qj9b
+链接: https://pan.baidu.com/s/1AY3EpU66KN1Kyg8Wyx9SNA?pwd=9kig 提取码: 9kig
+
 ## 联系作者
 ![加微信](images/w.png)
 
